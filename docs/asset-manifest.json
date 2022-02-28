@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d3f19804.css",
+    "main.js": "/static/js/main.c0ae64ce.js",
+    "static/js/787.0a642f22.chunk.js": "/static/js/787.0a642f22.chunk.js",
+    "static/media/steak.png": "/static/media/steak.1df1861cd77e59f524e9.png",
+    "static/media/d.png": "/static/media/d.c0b8351efd66c7628a79.png",
+    "static/media/panini.jpg": "/static/media/panini.3230d31ba366e33a61da.jpg",
+    "static/media/pasta.png": "/static/media/pasta.a4a58622290e374a5d89.png",
+    "static/media/bowl.png": "/static/media/bowl.adce6909494aa91b32bd.png",
+    "static/media/soup.png": "/static/media/soup.ec6cd89499fe6d0df09c.png",
+    "static/media/2.jpg": "/static/media/2.422bbb5197d7090a6668.jpg",
+    "static/media/3.jpg": "/static/media/3.38b49ff2c7f45df0e614.jpg",
+    "static/media/salad.png": "/static/media/salad.5410ee1006db0d5db350.png",
+    "static/media/smoo.png": "/static/media/smoo.07fa192db1bd5e8ed0f5.png",
+    "static/media/health.jpg": "/static/media/health.52a3ac8baebb75646ba6.jpg",
+    "static/media/4.jpg": "/static/media/4.f87fabc2d6b0addbe4e5.jpg",
+    "static/media/cook.png": "/static/media/cook.3d00d266e0aa74b5c218.png",
+    "static/media/mm.png": "/static/media/mm.f29b64c8d1b3eefd0c8e.png",
+    "static/media/peas.jpg": "/static/media/peas.cb8d89decfe0f296d14f.jpg",
+    "static/media/tasty.png": "/static/media/tasty.d3fca10cc2e83c36539b.png",
+    "static/media/tk.png": "/static/media/tk.9f506ac89902229c6404.png",
+    "index.html": "/index.html",
+    "main.d3f19804.css.map": "/static/css/main.d3f19804.css.map",
+    "main.c0ae64ce.js.map": "/static/js/main.c0ae64ce.js.map",
+    "787.0a642f22.chunk.js.map": "/static/js/787.0a642f22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3f19804.css",
+    "static/js/main.c0ae64ce.js"
+  ]
+}
